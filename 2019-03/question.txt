@@ -1,0 +1,3 @@
+为什么我提交txt类型的内容是中文乱码？
+
+Why do I submit TXT type content in Chinese random code?
